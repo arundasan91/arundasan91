@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 👨‍💻 I’m currently a final year PhD candidate at UT San Antonio.
+- 👨‍💻 I’m a final year PhD candidate at UT San Antonio.
 - 🌱 I’m currently learning to develop artificially intelligent algorithms for the healthcare domain, mainly in Neuroscience research.
 - 💬 Ask me about machine learning, deep learning, cloud and distributed computing, and data science.
 - ⚡ Fun fact: I enjoy photography 📷 and you can find me at @arun91dasan on Instagram or @arun_not_arun on Twitter.
